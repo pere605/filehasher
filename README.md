@@ -1,10 +1,10 @@
 # filehasher
 
-### What the hell for?
+### What's it for?
 
 Simple tool to generate SHA1 hash for specified files.
 
-### Ho to use
+### Ho to use it?
 
 1. Build with mvn package
 2. Run with **./scripts/filehasher**
